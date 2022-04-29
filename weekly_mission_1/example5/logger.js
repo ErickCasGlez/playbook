@@ -10,4 +10,4 @@ class Logger {
     }
 }
 
-module.exports = new Logger('DEFAULT')
+module.exports = new Logger('DEFAULT') //Aquí se declara un nuevo objeto para que cuando se use la clase se cree por default un nuevo objeto y sólo se pasen los parámetros
