@@ -11,7 +11,7 @@ class Logger {
     }
 
     verbose (message){
-        console.log(`[Objeto con nombre: ${this.name}] verbose: ${this.name}`);
+        console.log(`[Objeto con nombre: ${this.name}] verbose: ${message}`);
     }
 }
 
