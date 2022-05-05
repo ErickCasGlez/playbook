@@ -1,3 +1,3 @@
-import * as loggerModules from './logger'
+import * as loggerModule from './logger'
 
 console.log(loggerModule);
