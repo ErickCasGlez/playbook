@@ -1,1 +1,2 @@
 # Weekly Mission 2
+Hola, se hacen los ejercicios de los operadores y los ejercicios necesarios de esta semana, algunos ejercicios de operadores de hicieron de manera diferente pero sa el mismo resultado, comprobado en navegador y en consolas
