@@ -4,3 +4,4 @@ const Numbers = [
 ];
 Numbers.forEach(num => sum += num);
 console.log(sum);
+
